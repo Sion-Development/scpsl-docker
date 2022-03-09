@@ -1,7 +1,7 @@
 ARG BASE_IMAGE=steamcmd/steamcmd
 FROM ${BASE_IMAGE} AS steambuild
-MAINTAINER Ryan Smith <fragsoc@yusu.org>
-MAINTAINER Laura Demkowicz-Duffy <fragsoc@yusu.org>
+LABEL AUTHOR="Ryan Smith <fragsoc@yusu.org>"
+LABEL AUTHOR="Laura Demkowicz-Duffy <fragsoc@yusu.org>"
 
 ARG APPID=996560
 ARG STEAM_BETA=""
