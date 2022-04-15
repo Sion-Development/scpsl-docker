@@ -25,7 +25,7 @@ ARG GID=999
 
 ENV CONFIG_LOC="/config"
 ENV INSTALL_LOC="/scpserver"
-ENV GAME_CONFIG_LOC="/home/scpsl/.config/SCP Secret Laboratory/config"
+ENV GAME_CONFIG_LOC="/home/scpsl/.config/SCP Secret Laboratory"
 
 USER root
 
