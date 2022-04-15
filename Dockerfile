@@ -4,7 +4,7 @@ LABEL AUTHOR="Ryan Smith <fragsoc@yusu.org>"
 LABEL AUTHOR="Laura Demkowicz-Duffy <fragsoc@yusu.org>"
 LABEL AUTHOR="slicedbread <bread@breadhub.co.uk>"
 
-ARG APPID=1782380
+ARG APPID=1801280
 ARG STEAM_BETA=""
 
 # Make our config and give it to the steam user
